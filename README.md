@@ -1,0 +1,1 @@
+Demo Backend for the synopses project, using Node, Express, MySQL with Knex, JWT.
